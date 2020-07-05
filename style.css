@@ -1,0 +1,29 @@
+body {
+background: url('GradientBody.jpg') repeat-x;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 800px;
+background:url('maingradient.jpg') repeat-x;
+margin: 25px auto;
+border: solid 6px #000000;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Rock Salt";
+font: 24pt;
+color: #000000
+}
+hr {
+height: 2px;
+color: #000000;
+}
+#cooltext {
+font-family:"Comic Sans";
+font-size: 12pt;
+text-align: left;
+text-indent: 48px;
+color: #8B0000;
+}
